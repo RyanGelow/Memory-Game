@@ -6,18 +6,18 @@
 
 3. Here are a few photos of the game in progress:
 
-    ![New Game](https://github.com/RyanGelow/Friend-Finder/blob/master/images/home-screen.png)
+    ![New Game](https://github.com/RyanGelow/Memory-Game/blob/master/images/newgame.png)
 
-    ![Mid Game](https://github.com/RyanGelow/Friend-Finder/blob/master/images/sign-up.png)
+    ![Mid Game](https://github.com/RyanGelow/Memory-Game/blob/master/images/midgame.png)
     
-    ![You Lose](https://github.com/RyanGelow/Friend-Finder/blob/master/images/question-1.png)
+    ![You Lose](https://github.com/RyanGelow/Memory-Game/blob/master/images/youlose.png)
     
-    ![High Score](https://github.com/RyanGelow/Friend-Finder/blob/master/images/question-4.png)
+    ![High Score](https://github.com/RyanGelow/Memory-Game/blob/master/images/highscore.png)
     
-    ![You Win](https://github.com/RyanGelow/Friend-Finder/blob/master/images/last-question.png)
+    ![You Win](https://github.com/RyanGelow/Memory-Game/blob/master/images/youwin.png)
     
 
-4. Link to app: https://ryangelow.github.io/Friend-Finder/
+4. Link to app: https://ryangelow.github.io/Memory-Game/
 
 5. Technologies/npm package used:
     
