@@ -6,22 +6,20 @@
 
 3. Here are a few photos of the game in progress:
 
-    ![New Game](https://github.com/RyanGelow/Memory-Game/blob/master/app/public/images/newgame.png)
+    ![New Game](https://github.com/RyanGelow/Memory-Game/blob/master/images/newgame.png)
 
-    ![Mid Game](https://github.com/RyanGelow/Memory-Game/blob/master/app/public/images/midgame.png)
+    ![Mid Game](https://github.com/RyanGelow/Memory-Game/blob/master/images/midgame.png)
     
-    ![You Lose](https://github.com/RyanGelow/Memory-Game/blob/master/app/public/images/youlose.png)
+    ![You Lose](https://github.com/RyanGelow/Memory-Game/blob/master/images/youlose.png)
     
-    ![High Score](https://github.com/RyanGelow/Memory-Game/blob/master/app/public/images/highscore.png)
+    ![High Score](https://github.com/RyanGelow/Memory-Game/blob/master/images/highscore.png)
     
-    ![You Win](https://github.com/RyanGelow/Memory-Game/blob/master/app/public/images/youwin.png)
-    
+    ![You Win](https://github.com/RyanGelow/Memory-Game/blob/master/images/youwin.png)
 
-4. Link to app: https://ryangelow.github.io/Memory-Game/
 
-5. Technologies/npm package used:
+4. Technologies/npm package used:
     
     * React
     * Bootstrap
  
-6. Lead-Developer: Ryan Gelow
+5. Lead-Developer: Ryan Gelow
